@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">myGDPR</string>
+    <string name="add_point">Aggiungi Voce</string>
+    <string name="edit_point">Modifica</string>
+    <string name="point_title">Nome Voce</string>
+
+    <string name="point_name_label">Inserisci il nome della voce</string>
+    <string name="deadline_label">Inserisci una deadline</string>
+    <string name="priority_label">Seleziona una priorità</string>
+    <string name="article_number_label">Aggiungi il numero di Articolo di riferimento</string>
+    <string name="cancel_label">Annulla</string>
+    <string name="welcome_in">Benvenuto in</string>
+    <string name="reset_activity">Nuova Analisi</string>
+    <string name="start_activity">Inizia</string>
+    <string name="temporary">Hai ancora 5 task da completare</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="delete_all_label">Cancella tutto</string>
+    <string name="reset_list_label">Resetta la lista</string>
+    <string name="task_to_complete_label">Task da completare</string>
+    <string name="prioritylabel">Priorità assegnata:</string>
+    <string name="point_list_activity_name">Lista Task</string>
+    <string name="edit_point_activity_name">Modifica Task</string>
+    <string name="person_in_charge">Inserisci un responsabile</string>
+    <string name="refresh">Aggiorna Lista</string>
+
+    <string name="delete_point">Elimina</string>
+    <string name="set_as_completed">Completato</string>
+    <string name="set_as_uncompleted">Da fare</string>
+    <string name="set_as">Cambia stato</string>
+    <string name="priority">Priorità</string>
+    <string name="deadline">Deadline</string>
+    <string name="article">N. art.</string>
+    <string name="task_name">Titolo</string>
+    <string name="date_format">gg/mm/aaaa</string>
+
+
+    <string-array name="priority">
+        <item>Bassa</item>
+        <item>Media</item>
+        <item>Alta</item>
+    </string-array>
+
+
+
+</resources>
+
